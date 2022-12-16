@@ -5,4 +5,5 @@
 // import './7_operateurs_comparaison'
 // import './exercices/2_exo_conditions'
 // import './8_boucle_for'
-import './exercices/3_exo_for'
+// import './exercices/3_exo_for'
+import './9_boucle_while'
