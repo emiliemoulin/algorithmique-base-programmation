@@ -13,5 +13,11 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["@typescript-eslint"]
+  "plugins": ["@typescript-eslint"],
+  "rules": {
+    "no-else-return": "error",
+    "max-statements": ["error", 20],
+    "max-params": ["error", 3],
+    "no-unused-vars": "error"
+  }
 }
