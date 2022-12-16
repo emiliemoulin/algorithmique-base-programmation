@@ -1,3 +1,5 @@
+import PromptSync from 'prompt-sync'
+let prompt = PromptSync()
 
 let longueur: number = 500
 let largeur: number = 250

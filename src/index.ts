@@ -2,4 +2,6 @@
 // import './4_conditions'
 // import './5_conditions_multiples'
 // import './6_switch_case'
-import './7_operateurs_comparaison'
+// import './7_operateurs_comparaison'
+// import './exercices/2_exo_conditions'
+import './8_boucle_for'
