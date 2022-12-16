@@ -4,4 +4,5 @@
 // import './6_switch_case'
 // import './7_operateurs_comparaison'
 // import './exercices/2_exo_conditions'
-import './8_boucle_for'
+// import './8_boucle_for'
+import './exercices/3_exo_for'

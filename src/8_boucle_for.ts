@@ -13,3 +13,10 @@
 for (let nombre = 1; nombre <= 100; nombre = nombre + 1) {
   console.log(`${nombre} à la puissance 2 vaut : ${Math.pow(nombre, 2)}`)
 }
+
+// 3 x 0 = 0
+// 3 x 1 = 3
+// 3 x 2 = 6
+// 3 x 3 = 9
+//....
+// 3 x 13 = 
